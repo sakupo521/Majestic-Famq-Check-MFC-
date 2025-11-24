@@ -5,7 +5,7 @@
 
 ---
 
-## 🛠️ Используемые технологии
+## 🛠️ Используемые ЯП и IDE
 
 ![Python](https://img.shields.io/badge/Python-100%25-3776AB?style=flat&logo=python&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/IDE-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
