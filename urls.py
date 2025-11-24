@@ -19,7 +19,7 @@ urls = ['https://forum.majestic-rp.ru/',
 
 
 def open_url(): #открытие ссылок
-    for i in range(len(urls)-1):
+    for i in range(len(urls)):
         webbrowser.open_new_tab(urls[i])
 
 def open_explorer(): #открытие проводника
@@ -32,4 +32,5 @@ def open_explorer(): #открытие проводника
 if __name__ == "__main__":
     #выполнение функций (если вы удалили фунцию то тут нужно ее тоже удалить!!!)
     open_url()
+
     open_explorer()
